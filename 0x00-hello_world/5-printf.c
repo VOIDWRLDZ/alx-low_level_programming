@@ -5,7 +5,7 @@
  *
  * Description: A C program that prints a sentence using the function printf
  *
- * Return Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
