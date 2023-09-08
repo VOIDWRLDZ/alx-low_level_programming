@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: Program prints all the numbers of base 16 in lowercase
+ * Description: Program prints the lowercase alphabet in reverse
  *
  * Return: Always 0 (success)
  */
