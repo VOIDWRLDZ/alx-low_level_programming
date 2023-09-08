@@ -3,23 +3,19 @@
 /**
  * main - Entry point
  *
- * Description: Program prints the alphabet in lowercase and uppercase
- *
  * Return: Always 0.
  */
 
 int main(void)
 {
-	char letter;
+	int digit = 0;
 
-	for (letter = 'a'; letter <= 'z'; letter++)
-
+	while (digit <= 9)
 	{
-	if (letter != 'e' && letter != 'q')
-	putchar(letter);
+		printf("%i", digit);
+		digit++;
 	}
-
-	putchar('\n');
+printf("\n");
 
 	return (0);
 }
