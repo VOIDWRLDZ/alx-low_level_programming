@@ -3,7 +3,7 @@
 /**
  * main - program that prints the alphabet in lowercase
  *
- * Description: A C program that prints the alphabet in lowercase, followed by a new line.
+ * Description: Program that prints the alphabet in lowercase
  *
  *  Return: Always 0.
  */
